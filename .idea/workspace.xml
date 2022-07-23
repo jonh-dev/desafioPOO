@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b55f0100-3419-4321-b07f-ed34e6625f4a" name="Changes" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/src/desafioDio/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafioDio/entities/Curso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafioDio/entities/Mentoria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafioDio/entities/Bootcamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafioDio/entities/Dev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafioDio/services/Conteudo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/desafioPOO/desafioDio/application/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/desafioPOO/desafioDio/application/Program.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/desafioPOO/desafioDio/entities/Curso.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/desafioPOO/desafioDio/entities/Curso.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/desafioPOO/desafioDio/entities/Mentoria.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/desafioPOO/desafioDio/entities/Mentoria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/desafioDio/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desafioDio/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/desafioDio/entities/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desafioDio/entities/Curso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/desafioDio/entities/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desafioDio/entities/Mentoria.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
